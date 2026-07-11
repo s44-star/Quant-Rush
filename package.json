@@ -1,0 +1,24 @@
+{
+  "name": "quant-rush",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.40.0",
+    "@tonconnect/ui-react": "^2.0.0",
+    "next": "latest",
+    "pixi.js": "^8.0.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
